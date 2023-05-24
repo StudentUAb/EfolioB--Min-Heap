@@ -4,7 +4,7 @@
 
 
 <p align="center">
-EfolioB - 21046 - EDAF @ UAb
+EfolioB de 21046 - Estruturas de Dados e Algoritmos Fundamentais - 02
 </p>
 
 
