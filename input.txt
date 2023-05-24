@@ -1,3 +1,5 @@
+# Ficheiro input.txt com os comandos
+
 # test 01
 
 insert 7 3  9   6
