@@ -30,7 +30,7 @@ para executar
 
 <br>
 
-<img src="tela.jpg" >
+<img width="600" src="tela.jpg" >
 
 
 🔧 Tecnologias utilizadas:
